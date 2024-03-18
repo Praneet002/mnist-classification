@@ -10,6 +10,8 @@ To Develop a convolutional deep neural network (CNN) to classify hand-written di
 The MNIST dataset stands as a cornerstone in both machine learning and computer vision, offering a standardized benchmark for evaluating models. Comprising 28x28 pixel grayscale images depicting handwritten digits from 0 to 9, it includes a meticulously divided training set of 60,000 images and a test set of 10,000 images. Each image's grayscale representation spans pixel values from 0 to 255, where 0 signifies black and 255 denotes white. Researchers and practitioners extensively utilize this dataset to train and assess a multitude of machine learning models, particularly focusing on digit recognition tasks. Leveraging MNIST, we aim to develop and scrutinize a convolutional deep neural network tailored specifically for digit classification while also assessing its adaptability and generalization capabilities through real-world scanned handwritten images not present in the dataset.
 
 ## Neural Network Model
+![image](https://github.com/Praneet002/mnist-classification/assets/94308200/30c03a67-b410-4846-bda7-5869cf82dd96)
+
 
 ## DESIGN STEPS
 
