@@ -115,15 +115,21 @@ print(x_single_prediction)
 
 ![image](https://github.com/Praneet002/mnist-classification/assets/94308200/4baba763-2fd0-4f6b-879d-b0f3cb964967)
 
+![image](https://github.com/Praneet002/mnist-classification/assets/94308200/5805fdb0-ce9a-4c0c-9a4b-c65dbedc7d52)
+
 
 ### Classification Report
 
 ![image](https://github.com/Praneet002/mnist-classification/assets/94308200/fcb41c81-4807-47a1-8746-4e95b69b6106)
 
+![image](https://github.com/Praneet002/mnist-classification/assets/94308200/db432f0f-3dad-4ed3-9b25-9939fc531f06)
+
 
 ### Confusion Matrix
 
 ![image](https://github.com/Praneet002/mnist-classification/assets/94308200/a7c506e8-8fc5-40d5-b883-867f39e6a3d1)
+
+![image](https://github.com/Praneet002/mnist-classification/assets/94308200/fd95b32e-0b3a-4e42-8e2a-027f732a0759)
 
 
 ### New Sample Data Prediction
@@ -131,6 +137,8 @@ print(x_single_prediction)
 ![image](https://github.com/Praneet002/mnist-classification/assets/94308200/ae327574-42bf-4a8a-8657-1106ad3683b1)
 
 ![image](https://github.com/Praneet002/mnist-classification/assets/94308200/d5cde4eb-92d7-4abc-821d-0f77c9dedfec)
+
+![image](https://github.com/Praneet002/mnist-classification/assets/94308200/80fb87ff-c7d4-4d20-8d7e-9f6dd5c5a3e5)
 
 
 ## RESULT
